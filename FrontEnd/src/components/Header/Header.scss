@@ -1,0 +1,25 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}
+.linksButton:hover{
+    a{
+        color:black
+    }
+    
+}
+#linkRegister{
+    color:black
+}
+.userName{
+    text-decoration: none;
+    padding-right: 10px;
+}
+
