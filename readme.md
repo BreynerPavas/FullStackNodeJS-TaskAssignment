@@ -42,12 +42,6 @@ Example:
 - Go to the **FrontEnd** folder and run: `npm run dev`
 - This will launch the frontend at **http://localhost:5173** (or another port depending on Vite settings).
 
----
-
-Now you can create, view, and delete superheroes! 🎉  
-Let me know if you need any modifications. 🚀
-
----
 
 ## 🔥 Possible Improvements & Expansions
 
